@@ -1,0 +1,16 @@
+{
+  "name": "plugins",
+  "version": "1.0.0",
+  "description": "plugin-dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jquery",
+    "plugin",
+    "modules"
+  ],
+  "author": "jack",
+  "license": "MIT"
+}
